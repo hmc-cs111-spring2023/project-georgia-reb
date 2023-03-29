@@ -19,9 +19,15 @@ code, and any other resources that you think will help clearly convey your
 design process.
 
 After class on Monday, I decided that my goals for the week were to provide feedback to Kate,
-create an example program, and decide what language to use as my base language for the project.
+create an example program, and decide what language to use as my host language for the project.
 
-### Base language decision:
+Note, I had already decided last week that I am going to write an external DSL when working
+on my project proposal. I want to create a new language that is very targeted towards
+people writing crochet patterns, and I want full control over how this is converted to different
+outputs like markdown and PDFs. I am also excited by the idea of creating my own syntax from
+scratch.
+
+### Host language decision:
 On Monday afternoon, I spent some time research the pros and cons of using Haskell and Python
 for this project. These are the only two languages I considered.
 
@@ -38,7 +44,7 @@ much of a challenge.
 
 These pros and cons are both ideas that I thought about on my own, and discussed with Prof Ben
 during class on Wednesday. Based on these pros and cons, I have decided to write my language
-in python.
+in Python.
 
 ### Example program:
 After class on Monday, I spent some time writing an example program. I wanted to create an
