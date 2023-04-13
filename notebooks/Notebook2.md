@@ -111,9 +111,18 @@ My future concerns about the parser include:
 but then go at the end of a line - is the regular expression just "#.*\n"?
 * Is there a way I can make arguments not need "," after the last argument?
 
-Next week I plan to begin by researching how I should write my compiler, and then
-getting started on it! From here I think there will be a back and forth between
-the two as I add more robustness to my parser.
+I have also spent some time planning how I am going to write the rest of my compiler.
+I have come up with a plan for the steps that I will take to write my compiler (see
+below) and have started to brainstorm how I am going to format the rest of my code.
+
+1. Implement a title page
+2. Implement importing from a different file
+3. Implement global rules
+4. *At this point I should have a good understanding of how the compiler works and how to add further code. I can now work on design ideas and features.*
+5. Design the majority of the programming language - go back to my example programs and be intentional about the design of the language
+6. Write documentation as I am going
+7. Go ahead and implement the rest of the language
+
 
 ## Questions
 
@@ -144,6 +153,5 @@ project, how did this week go?**
 
 This week went well, I did all of the review group related work that I needed
 to do, and I made great progress on my project. I am happy that my parser is clean
-and should be easy to use with my compiler. If I want to do some extra work to
-be extra prepaired for next week, I should do some additional research about
-starting my compiler. I might try to do this Monday morning before class as well.
+and should be easy to use with my compiler. I have also done some extra work by
+doing research on and starting my compiler!
