@@ -145,6 +145,9 @@ final packaging of the language and documentation, and adding extra things if
 I suprisingly have extra time this week. I am very happy with what I have
 completed, I think this project is turning out well!
 
+Extra: I came back on Thursday night and worked on the documentation. I added
+a step through introduction page, and I added images to the wiki.
+
 ## Questions
 
 **What is the most pressing issue for your project? What design decision do
@@ -166,7 +169,8 @@ letting me bounce ideas off of them.
 team, how did you share the work?**
 
 I spent ~5.5 hours on Monday afternoon and evening, as well as ~1.5 hours on
-Tuesday morning finishing coding and writing this notebook.
+Tuesday morning finishing coding and writing this notebook. I also spent
+about an hour on the project on Thursday evening.
 
 **Compared to what you wrote in your contract about what you want to get out of this
 project, how did this week go?**
